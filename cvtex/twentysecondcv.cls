@@ -228,19 +228,19 @@
 
     %------------------------------------------------
         
-        \profilesection{Skills}{4cm}
+        \profilesection{Habilidad}{4cm}
 
     	\skills
         
         %------------------------------------------------
         
-        \profilesection{Interests}{3cm} 
+        \profilesection{Intereses}{3cm} 
         
 		\interests{{Data Mining \& Statistical Analysis/5},{Software Development/5.8},{Cryptography/4.3},{UI Design/4},{Cloud Computing/5}}
         
         \interests
         
-        \profilesection{Languages}{2.4cm} 
+        \profilesection{Idiomas}{2.4cm} 
         {$
               \begin{array}{l}
               \hspace{-2mm}{\includegraphics[scale=0.45]{img/languages_muted.png}}
